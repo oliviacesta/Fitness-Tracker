@@ -252,7 +252,7 @@ public class Login_Form extends javax.swing.JFrame {
             }
             else
             {
-                timerUp.stop();
+                timerUp.stop(); // time for message to appear
             }
         
         }

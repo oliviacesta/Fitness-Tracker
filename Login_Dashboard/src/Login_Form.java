@@ -43,6 +43,7 @@ public class Login_Form extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
+        // gui variable declaration
         jPanel_container = new javax.swing.JPanel();
         jPanel2 = new javax.swing.JPanel();
         jLabel_title = new javax.swing.JLabel();

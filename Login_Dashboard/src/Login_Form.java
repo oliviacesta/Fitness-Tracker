@@ -11,7 +11,7 @@ import javax.swing.border.Border;
 
 /**
  *
- * @author marylam
+ * @author oliviacesta
  */
 public class Login_Form extends javax.swing.JFrame {
 

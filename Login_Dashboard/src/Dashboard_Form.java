@@ -20,7 +20,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author marylam
+ * @author oliviacesta
  */
 public class Dashboard_Form extends javax.swing.JFrame {
 
